@@ -1,0 +1,10 @@
+def function_1():
+    print("text 1")
+def function_2():
+    print("text 2")
+def function_3():
+    print("text 3")
+def function_4():
+    print("text 4")
+def function_n():
+    print("text 5")
